@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# merge3.py - 3-way merge of texts, from bzrlib
+# merge3.py - 3-way merge of texts.
 #
 # Copyright (C) 2007-2017 Fpemud
 #
